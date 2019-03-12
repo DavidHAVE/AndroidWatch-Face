@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:17:1-61:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/130b58cf4175cf24629db2627097abaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/127dfac0e53a074845c8f6a78f229667/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/3e6bdc264568322d55937622193c3cf5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/05d45cdd29313e0a2ab6247319e3db80/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/59f5a9005b37c51f1777caabd94e5a47/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dcba881ec6947c464c45041224e7c58d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4a31811f46593bb9151f1fffaaa3b645/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/434dc4ca016b3b6ff775d8ad7571a790/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7aeef38c49790da91e21f8f9a7bab15b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b551fc51cf996d3fd8501dc10d848fe1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/ba525c0a15d04ba835bdf4918c66c123/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0aa30528d563ea868e696ad64ac0400d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0245a613d841a26b3e0e08253d8a50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18e3b66b44b02ca548f8d8690f69ef2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/b1ba22e6b2e64840f306b4251ecbd2cc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b9247c06af38de734cf4e7b2e070b8ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb38e98002b829fbb7fd8e009bb2ff7b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/10237d74bfa68dea5498d5fc24fa70b6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb9e22a40aab912c8f54fc63ff338097/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/025f89f4c7c451b6911d7d1012015173/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cd1c87a612bf67e4fc9286f36bacdbf/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:18:9-57
+	xmlns:android
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:20:5-21:47
+INJECTED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:20:5-21:47
+INJECTED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:20:5-21:47
+MERGED from [com.android.support:support-v13:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/130b58cf4175cf24629db2627097abaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/130b58cf4175cf24629db2627097abaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/127dfac0e53a074845c8f6a78f229667/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/127dfac0e53a074845c8f6a78f229667/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/3e6bdc264568322d55937622193c3cf5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/3e6bdc264568322d55937622193c3cf5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/05d45cdd29313e0a2ab6247319e3db80/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/05d45cdd29313e0a2ab6247319e3db80/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/59f5a9005b37c51f1777caabd94e5a47/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/59f5a9005b37c51f1777caabd94e5a47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dcba881ec6947c464c45041224e7c58d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dcba881ec6947c464c45041224e7c58d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4a31811f46593bb9151f1fffaaa3b645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/4a31811f46593bb9151f1fffaaa3b645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/434dc4ca016b3b6ff775d8ad7571a790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/434dc4ca016b3b6ff775d8ad7571a790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7aeef38c49790da91e21f8f9a7bab15b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7aeef38c49790da91e21f8f9a7bab15b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b551fc51cf996d3fd8501dc10d848fe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b551fc51cf996d3fd8501dc10d848fe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/ba525c0a15d04ba835bdf4918c66c123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/ba525c0a15d04ba835bdf4918c66c123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0aa30528d563ea868e696ad64ac0400d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0aa30528d563ea868e696ad64ac0400d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0245a613d841a26b3e0e08253d8a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0245a613d841a26b3e0e08253d8a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18e3b66b44b02ca548f8d8690f69ef2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18e3b66b44b02ca548f8d8690f69ef2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/b1ba22e6b2e64840f306b4251ecbd2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/b1ba22e6b2e64840f306b4251ecbd2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b9247c06af38de734cf4e7b2e070b8ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b9247c06af38de734cf4e7b2e070b8ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb38e98002b829fbb7fd8e009bb2ff7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb38e98002b829fbb7fd8e009bb2ff7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/10237d74bfa68dea5498d5fc24fa70b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/10237d74bfa68dea5498d5fc24fa70b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb9e22a40aab912c8f54fc63ff338097/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb9e22a40aab912c8f54fc63ff338097/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/025f89f4c7c451b6911d7d1012015173/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/025f89f4c7c451b6911d7d1012015173/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cd1c87a612bf67e4fc9286f36bacdbf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cd1c87a612bf67e4fc9286f36bacdbf/AndroidManifest.xml:20:5-44
+INJECTED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:20:5-21:47
+INJECTED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:20:5-21:47
+	android:targetSdkVersion
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:21:15-44
+		INJECTED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:20:15-41
+		INJECTED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:24:22-65
+application
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:30:5-60:19
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/127dfac0e53a074845c8f6a78f229667/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/127dfac0e53a074845c8f6a78f229667/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/3e6bdc264568322d55937622193c3cf5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/3e6bdc264568322d55937622193c3cf5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/05d45cdd29313e0a2ab6247319e3db80/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/05d45cdd29313e0a2ab6247319e3db80/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/59f5a9005b37c51f1777caabd94e5a47/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/59f5a9005b37c51f1777caabd94e5a47/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/ba525c0a15d04ba835bdf4918c66c123/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/ba525c0a15d04ba835bdf4918c66c123/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/b1ba22e6b2e64840f306b4251ecbd2cc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/b1ba22e6b2e64840f306b4251ecbd2cc/AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:33:13-45
+	android:icon
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:32:13-49
+	android:allowBackup
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:31:13-39
+	android:theme
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:34:13-44
+activity#com.example.android.wearable.watchface.DigitalWatchFaceCompanionConfigActivity
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:37:17-72
+intent-filter#action:name:com.example.android.wearable.watchface.CONFIG_DIGITAL+category:name:android.intent.category.DEFAULT+category:name:com.google.android.wearable.watchface.category.COMPANION_CONFIGURATION
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:39:13-43:29
+action#com.example.android.wearable.watchface.CONFIG_DIGITAL
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:40:17-96
+	android:name
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:40:25-93
+category#com.google.android.wearable.watchface.category.COMPANION_CONFIGURATION
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:41:17-115
+	android:name
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:41:27-112
+category#android.intent.category.DEFAULT
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:42:27-73
+activity#com.example.android.wearable.watchface.OpenGLWatchFaceConfigActivity
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:46:9-54:20
+	android:label
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:48:17-49
+	android:name
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:47:17-62
+intent-filter#action:name:com.example.android.wearable.watchface.CONFIG_OPENGL+category:name:android.intent.category.DEFAULT+category:name:com.google.android.wearable.watchface.category.COMPANION_CONFIGURATION
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:49:13-53:29
+action#com.example.android.wearable.watchface.CONFIG_OPENGL
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:50:25-92
+meta-data#com.google.android.gms.version
+ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:56:9-58:73
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/59f5a9005b37c51f1777caabd94e5a47/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/59f5a9005b37c51f1777caabd94e5a47/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:58:17-70
+	android:name
+		ADDED from /Users/apple/Documents/androidWatchFace/Application/src/main/AndroidManifest.xml:57:17-62
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.3.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/127dfac0e53a074845c8f6a78f229667/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.3.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/127dfac0e53a074845c8f6a78f229667/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.3.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/127dfac0e53a074845c8f6a78f229667/AndroidManifest.xml:11:13-55
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/ab3ae8cabecdb380716c0378ef941546/AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/ba525c0a15d04ba835bdf4918c66c123/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/b1ba22e6b2e64840f306b4251ecbd2cc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/b1ba22e6b2e64840f306b4251ecbd2cc/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/ba525c0a15d04ba835bdf4918c66c123/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/ba525c0a15d04ba835bdf4918c66c123/AndroidManifest.xml:24:13-51

@@ -1,0 +1,4 @@
+#Sat Sep 08 20:59:25 WIB 2018
+base.0=/Users/apple/Documents/androidWatchFace/Wearable/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

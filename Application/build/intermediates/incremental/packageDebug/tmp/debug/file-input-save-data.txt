@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Sep 09 14:46:07 WIB 2018
+0.baseType=DIRECTORY
+0.base=/Users/apple/Documents/androidWatchFace/Application/build/intermediates/transforms/dexMerger/debug/17
+0.path=classes.dex
+0.set=DEX
+count=1
